@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronit Chawla</h1>
-<h3 align="center">A passionate developer from India | CTF player| Currently exploring the world of web3</h3>
+<h3 align="center">A passionate developer from India | CTF player | Currently exploring the world of web3</h3>
 <h4 align="center">Fueled by coffee and curiosity, I navigate the tech world with my laptop and a busy mind.</h4>
 
 <p align="left"> <a href="https://twitter.com/be4st1208" target="blank"><img src="https://img.shields.io/twitter/follow/be4st1208?logo=twitter&style=for-the-badge" alt="be4st1208" /></a> </p>
