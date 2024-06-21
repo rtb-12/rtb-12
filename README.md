@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rtbchawla12@gmail.com**
 
-- 📄 Know about my experiences [Currently developer @IMGIITRoorkee](Currently developer @IMGIITRoorkee)
+- 📄 Know about my experiences [Currently developer @IMGIITRoorkee]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
