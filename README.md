@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtb-12" alt="rtb-12" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtb-12&show_icons=true&locale=en&layout=compact" alt="rtb-12" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtb-12&show_icons=true&locale=en" alt="rtb-12" /></p>
 
