@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/be4st1208" target="blank"><img src="https://img.shields.io/twitter/follow/be4st1208?logo=twitter&style=for-the-badge" alt="be4st1208" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity,Rust, NextJS**
-
 - 📫 How to reach me **rtbchawla12@gmail.com**
 
 - 📄 Know about my experiences [ Currently developer @IMGIITRoorkee , CTF Player @InfoSecIITR ]
